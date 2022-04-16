@@ -24,3 +24,7 @@
 <img width="" height="" src="./pic/이미지 바꾸기 소스코드.PNG.jpg"></img>
 <img width="" height="" src="./pic/이미지 바꾸기 소스코드2.PNG.jpg"></img>
 
+##5주차(2022-04-05)
+-
+<img width="" height="" src="./pic/넓이.jpg"></img>
+<img width="" height="" src="./pic/높이.jpg"></img>
