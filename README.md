@@ -26,5 +26,5 @@
 
 ##5주차(2022-04-05)
 -
-<img width="" height="" src="./pic/넓.jpg"></img>
-<img width="" height="" src="./pic/높.jpg"></img>
+<img width="" height="" src="./pic/사진 넓이.jpg"></img>
+<img width="" height="" src="./pic/사진 높이.jpg"></img>
